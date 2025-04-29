@@ -1,0 +1,32 @@
+--- Tohle je vše na co jsem použil můj pseudo code. 
+
+
+HEADER(component)
+Header(Folder) - Header.jsx = Header.css
+--- Header as reusable component thro out the entire website
+
+header(
+    width: 100%
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1)
+)
+    -"NavBar" (
+        max-width 1400px 
+        margin: 0 auto
+        padding: 0 2 rem
+        display: flex
+    )
+        -"Logo" (width: 100px)
+        Image-"placeholder"- 
+        -
+
+        -"Texts"(c)
+        text<Home> 
+        text<Store> 
+        text<Info> 
+        -
+
+        -"Actions"
+        Image-"placeholder"- 
+        Image-"placeholder"- 
+        -
+    -
