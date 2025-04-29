@@ -4,6 +4,7 @@ potřeba vytvořit git-clone
 
 ## Upravit .env file
 ![image](https://github.com/user-attachments/assets/10fc46f4-0371-48e9-8689-c432e51cd0e0)
+
 EMAIL_USERNAME a ORDER_RECEIVER_EMAIL - musí být nahrazeny Vaším E-Mailem
 EMAILPASS - Musí být nahrazeno app google heslem
 
